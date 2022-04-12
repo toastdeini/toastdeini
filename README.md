@@ -5,6 +5,6 @@
 -->
 
 - 🌱 I’m currently studying Data Science at Flatiron School
-- 🎥 I like to watch movies - I log what I watch on [Letterboxd](https://letterboxd.com/bellyaches/)
+- 🎥 I watch movies pretty often - I log what I watch on [Letterboxd](https://letterboxd.com/bellyaches/)
 - 📫 You can [email me](mailto:lhdowker@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/luke-dowker/)
 - 👀 Stay tuned for upcoming projects!
